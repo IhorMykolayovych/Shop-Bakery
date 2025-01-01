@@ -13,9 +13,9 @@
     </symbol>
 
     <symbol id="close" viewBox="0 0 32 32">
-      <path stroke-linejoin="miter" stroke-linecap="round" stroke-miterlimit="4" stroke-width="2" d="M8 8l8 8 8-8">
+      <path d="M2.286 2.286l13.714 13.714 13.714-13.714">
       </path>
-      <path stroke-linejoin="miter" stroke-linecap="round" stroke-miterlimit="4" stroke-width="2" d="M8 24l8-8 8 8">
+      <path d="M2.286 29.714l13.714-13.714 13.714 13.714">
       </path>
     </symbol>
 
