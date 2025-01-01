@@ -13,8 +13,8 @@
     </symbol>
 
     <symbol id="close" viewBox="0 0 32 32">
-      <path d="M1 1L7 7L13 1" stroke-width="2" stroke-linecap="round"/>
-      <path d="M1 13L7 7L13 13" stroke-width="2" stroke-linecap="round"/>
+      <path d="M1 1L7 7L13 1"/>
+      <path d="M1 13L7 7L13 13"/>
     </symbol>
 
     <symbol id="facebook" viewBox="0 0 32 32">
